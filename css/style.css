@@ -1,0 +1,266 @@
+body {
+  background-color: #c9cbff;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.mainHead {
+  font-family: 'Parisienne', cursive;
+  font-size: 80px;
+  color: #0278ae;
+  margin: 0;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Parisienne', cursive;
+  color: white;
+}
+
+hr {
+  border-color: #892cdc;
+  border-style: dashed none none;
+  border-width: 8px;
+  height: 20px;
+  width: 15%;
+}
+
+.mainPara {
+  color: #892cdc;
+  font-size: 24px;
+  font-family: 'Philosopher', sans-serif;
+  margin: 0;
+  padding-left: 240px;
+}
+
+p{
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  font-family: 'Philosopher', sans-serif;
+}
+
+th{
+
+  font-size: 80px;
+  font-family: 'Philosopher', sans-serif;
+}
+
+td{
+  color: #892cdc;
+  font-size: 30px;
+  line-height: 2;
+}
+
+.vrtline1{
+  border-left: 1px;
+  border-style: solid;
+  border-color: white;
+  height: 650px;
+  position: absolute;
+  left: 350px;
+}
+
+.vrtline2{
+  border-left: 1px;
+  border-style: solid;
+  border-color: white;
+  height: 650px;
+  position: absolute;
+  right:  400px;
+}
+
+.navbar {
+  background-color: #892cdc;
+  border-radius: 10%;
+  position: fixed;
+  margin-top: 4px;
+  margin-right: 6px;
+  height: 180px;
+  width: 180px;
+  right: 0;
+  text-align: center;
+}
+
+.sgLogo{
+  border-radius: 100%;
+  position: fixed;
+  height: 100px;
+  width: 100px;
+  left: 30px;
+  top: 30px;
+}
+
+.sgLogo:hover{
+  background: white;
+}
+
+.AboutME {
+  font-size: 41px;
+  text-decoration: none;
+  line-height: 1.3;
+  font-family: 'Philosopher', sans-serif;
+  color: #eeeeee;
+}
+
+.AboutME:hover{
+  color: #ffd700;
+}
+
+.AboutME_info_whole{
+  position: absolute;
+  left: 420px;
+  top: 70px;
+}
+
+.AboutME_info{
+  background-color: #11698e;
+  width: 650px;
+}
+
+.mypic{
+height: 300px;
+width: 300px;
+}
+
+
+.Hobbies {
+  font-size: 41px;
+  text-decoration: none;
+  line-height: 1.3;
+  font-family: 'Philosopher', sans-serif;
+  color: #eeeeee;
+}
+
+.Hobbies:hover{
+  color: #ffd700;
+}
+
+.hobbiesSec{
+  text-align: center;
+}
+
+li{
+  font-size: 40px;
+  color: #af0069;
+  line-height: 2;
+  font-family: 'Philosopher', sans-serif;
+  width: 300px;
+}
+
+.hobbiesList{
+
+margin-top: 50px;
+margin-left: 600px;
+padding: 0;
+
+}
+
+.chessPiece{
+  height: 400px;
+  width: 250px;
+  position: absolute;
+  left: 50px;
+  top: 300px;
+}
+
+.me{
+  height: 280px;
+  width: 300px;
+  position: absolute;
+  left: 20px;
+  top: 400px;
+}
+
+.Skills {
+  font-size: 41px;
+  text-decoration: none;
+  line-height: 1.3;
+  font-family: 'Philosopher', sans-serif;
+  color: #eeeeee;
+}
+
+.Skills:hover{
+  color: #ffd700;
+}
+
+.skillpic{
+  height: 280px;
+  width: 250px;
+  position: absolute;
+  left: 20px;
+  top: 400px;
+}
+
+.skillTable{
+  margin-left: 580px;
+  margin-top: 40px;
+  padding: 50px;
+  height: 500px;
+  width: 300px;
+
+}
+
+.Homepg {
+  margin: 0;
+  height: 800px;
+  width: 1505px;
+}
+
+.mooncloud {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 80px;
+  left: 180px;
+}
+
+.moon {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 80px;
+  left: 190px;
+}
+
+.cloud {
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  top: 80px;
+  right: 240px;
+}
+
+.buildingimg {
+  height: 650px;
+  width: 1400px;
+  position: absolute;
+  top: 210px;
+  left: 60px;
+}
+
+.Intro {
+  height: 300px;
+  width: 500px;
+  display: inline-block;
+  position: absolute;
+  top: 120px;
+  left: 500px;
+}
+
+.End{
+  background-color: #150485;
+text-align: center;
+}
+
+.LinkedIn{
+  font-size: 25px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: white;
+}
+
+.LinkedIn:hover{
+  color: #ffd700;
+}
